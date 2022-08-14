@@ -1,0 +1,90 @@
+.class1 {
+	padding-top: 0px;
+	width: 50px;
+    
+}
+
+.div1 {
+	width: 200px;
+    height:200px;
+}
+
+table, th, td {
+  border: 2px solid;
+color:black !important;
+}
+
+.mayro {
+color: white;
+background: black;
+}
+
+.aspro{
+color:white;
+}
+
+.class2 {
+	padding-top: 0px;
+	width: 125px;
+}
+
+.back { 
+
+background-image: url("../images/taverna.jpg");
+background-repeat: no-repeat;
+background-color: #cccccc; /* Used if the image is unavailable */
+background-position: center; /* Center the image */
+background-size: cover;
+height:1500px;
+
+}
+
+
+
+.logocart {
+	padding-top: 0px;
+	width: 25px;
+}
+
+.div2 {
+	width: 300px;
+    height:300px;
+
+
+}
+
+.ypsos {
+	
+	width: 350px;
+    height:250px;	
+}
+
+.ypsos2 {
+	
+	width: 350px;
+    height:200px;	
+}
+
+.brighter {
+	
+	background:linear-gradient(rgba(255,255,255,0.7), rgba(255,255,255,0.7));
+	
+}
+
+
+.mikro {
+	width:50px;
+	
+}
+
+.polumikro {
+	width:25px;
+	
+}
+
+.allagi{
+	
+	height:370px;
+	
+	
+}
